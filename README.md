@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/david-kreismann](https://www.linkedin.com/in/david-kreismann/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-kreismann" height="30" width="40" /></a>
-<a href="[https://instagram.com/david-kreismann](https://www.instagram.com/david_krmn/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david-kreismann" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-kreismann/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-kreismann" height="30" width="40" /></a>
+<a href="https://www.instagram.com/david_krmn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david-kreismann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
