@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm David Kreismann</h1>
-<h3 align="center">A Data Science - Student from Germany</h3>
+<h3 align="center">RCI - Student from Munich</h3>
 
 - 🔭 I’m always looking forward to learning new technologies and improve myself as a Developer.
 
