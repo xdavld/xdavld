@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👨🏻‍💻, I'm David Kreismann</h1>
 <h3 align="center">RCI - Student from Munich</h3>
 
+- 🔭 Currently interested in Deep Learning, Computer Vision, and Agentic AI.
 - 📫 How to reach me **david.kreismann@tum.de**
 
 <h3 align="left">Connect with me:</h3>
